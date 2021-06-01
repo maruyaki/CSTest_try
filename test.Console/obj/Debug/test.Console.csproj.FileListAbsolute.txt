@@ -1,0 +1,7 @@
+C:\Users\iax20\source\repos\CSTest_try\test.Console\bin\Debug\test.Console.exe.config
+C:\Users\iax20\source\repos\CSTest_try\test.Console\bin\Debug\test.Console.exe
+C:\Users\iax20\source\repos\CSTest_try\test.Console\bin\Debug\test.Console.pdb
+C:\Users\iax20\source\repos\CSTest_try\test.Console\obj\Debug\test.Console.csproj.AssemblyReference.cache
+C:\Users\iax20\source\repos\CSTest_try\test.Console\obj\Debug\test.Console.csproj.CoreCompileInputs.cache
+C:\Users\iax20\source\repos\CSTest_try\test.Console\obj\Debug\test.Console.exe
+C:\Users\iax20\source\repos\CSTest_try\test.Console\obj\Debug\test.Console.pdb
